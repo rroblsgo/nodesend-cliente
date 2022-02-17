@@ -1,7 +1,7 @@
 module.exports = {
   reactStrictMode: true,
   env: {
-    backendURL: 'https://peaceful-harbor-44321.herokuapp.com',
-    frontendURL: 'https://nodesend-cliente-rouge.vercel.app',
+    backendURL: 'https://boiling-forest-62158.herokuapp.com',
+    frontendURL: 'https://nodesend-cliente-eight-amber.vercel.app',
   },
 };
